@@ -95,7 +95,7 @@
     </td>
     <td width="50%" style="border: none;">
       <img
-        src="https://github-readme-stats.shion.dev/api/top-langs/?username=Shreyas-hack245&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        src="https://github-readme-stats-six-rosy-70.vercel.app/api/top-langs/?username=Shreyas-hack245&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         width="100%"
         height="180"
         alt="Most Used Languages"
